@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SidhhGuru"
+    }
+  },
+  "defaultProject": "SidhhGuru",
+  "cli": {
+    "analytics": false
+  }
 }
